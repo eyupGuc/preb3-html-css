@@ -38,8 +38,11 @@ img {
 }
 .indent {
   color: rgb(239, 216, 202);
+  border-left: 5px solid rgb(249, 202, 36);
+  padding-left: 10px;
+  margin-left: -6px;
 }
-.noindent {
+.no-indent {
   padding-left: 16px;
 }
 .mark {
